@@ -1,11 +1,8 @@
-# py echo server
+# Py Echo Server
 
-Simple echo server for testing
+Simple echo server for testing, run `python3 main.py`
 
-```shell
-# run
-python3 main.py
-```
+## Examples
 
 1. ```shell
     curl --request POST \
